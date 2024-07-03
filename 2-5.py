@@ -1,0 +1,5 @@
+print("abc")
+print('あいう')
+print("4540")
+print(type('ジバニャン'))
+print("I'm fine.")
